@@ -1,4 +1,4 @@
-# Speech Data Ghana UG - Ghanaian Local Audio Languages Sample Data
+# Speech Data Ghana UG - Ghanaian Multilingual Sample Data
 The data samples given are for quality testing and verification purposes 
 
 #
