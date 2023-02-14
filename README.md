@@ -12,14 +12,14 @@ Links to Data Assets
 AUDIO_ID.csv Description
 | Columns | Description |
 | --- | --- |
-| `IMAGE_URL` |             |
-| `AUDIO_URL` |             |
-| `ORG_NAME` |             |
-| `PROJECT_NAME` |             |
-| `SPEAKER_ID` |             |
-| `LOCALE` |             |
-| `GENDER` |             |
-| `AGE` |             |
-| `DEVICE` |             |
-| `ENVIRONMENT` |             |
-| `YEAR` |             |
+| `IMAGE_URL` | Provides the url to the real image souce image             |
+| `AUDIO_URL` | Provides the relative path to the local audio language in the Local Audio folder            |
+| `ORG_NAME` |  Identifies the institution coordinating the audio collecction           |
+| `PROJECT_NAME` | Provides the name of project             |
+| `SPEAKER_ID` | Provides the ID number of the individual describing the image             |
+| `LOCALE` |  Provides the local language IETF BCP 47 language tag of the audio file           |
+| `GENDER` |  Provides the individual providing the audio description gender           |
+| `AGE` |     Provides the individual providing the audio description age        |
+| `DEVICE` |  Identifies the device from which the audio recording was done          |
+| `ENVIRONMENT` |  Identifies the space within which the audio was recorded           |
+| `YEAR` |  The year in which the audio was recorded.            |
