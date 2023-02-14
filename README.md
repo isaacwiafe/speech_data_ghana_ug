@@ -2,17 +2,17 @@
 The data samples given are for quality testing and verification purposes 
 
 #
-Links to Data Assets 
+## Links to Data Assets 
 * [AUDIO_ID.csv (.csv)](https://www.google.com)
 - [Images](https://www.google.com)
 + [Local Audios](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/Eg1cvkUuxptPpr3rdbLdBUYBWzvkspfsFBeT0wtD1kxOHQ?e=NRnKCJ)
 
 #
 
-AUDIO_ID.csv Description
+## AUDIO_ID.csv Description
 | Columns | Description |
 | --- | --- |
-| `IMAGE_URL` | Provides the url to the real image souce image             |
+| `IMAGE_URL` | Provides the url to the source image             |
 | `AUDIO_URL` | Provides the relative path to the local audio language in the Local Audio folder            |
 | `ORG_NAME` |  Identifies the institution coordinating the audio collecction           |
 | `PROJECT_NAME` | Provides the name of project             |
