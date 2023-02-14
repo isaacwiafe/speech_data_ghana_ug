@@ -3,8 +3,8 @@ The data samples given are for quality testing and verification purposes
 
 #
 ## Links to Data Assets 
-* [AUDIO_ID.csv (.csv)] (https://ugedugh-my.sharepoint.com/:x:/g/personal/iwiafe_ug_edu_gh/EbWy9CUFycdPoPOak4tWVN0B696-eY93SZPbMrz0byGB1w?e=RKqCcp)
-- [Images] (https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/EufKr7fgJ4RPoAhIYkxIgfcBIjkDld-Dv1LYjC1z_FzOgw?e=yuJTHi)
+* [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/iwiafe_ug_edu_gh/EbWy9CUFycdPoPOak4tWVN0B696-eY93SZPbMrz0byGB1w?e=RKqCcp)
+- [Images](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/EufKr7fgJ4RPoAhIYkxIgfcBIjkDld-Dv1LYjC1z_FzOgw?e=yuJTHi)
 + [Local Audios](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/EseB42eO4P9EkxFZJWgBIBUBazsOwqGcG_Ear-B25QuuPQ?e=iNJG2Y)
 
 #
