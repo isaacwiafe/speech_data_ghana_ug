@@ -12,7 +12,8 @@ The data samples given are for quality testing and verification purposes
 ## AUDIO_ID.csv Description
 | Columns | Description |
 | --- | --- |
-| `IMAGE_URL` | Provides the url to the source image             |
+| `IMAGE_URL` | Provides the relative path to the images in the folder          |
+| `IMAGE_SRC_URL` | Provides the source path to the actual image online          |
 | `AUDIO_URL` | Provides the relative path to the local audio language in the Local Audio folder            |
 | `ORG_NAME` |  Identifies the institution coordinating the audio collecction           |
 | `PROJECT_NAME` | Provides the name of project             |
