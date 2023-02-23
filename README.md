@@ -3,9 +3,9 @@ The data samples given are for quality testing and verification purposes
 
 #
 ## Links to Data Assets 
-* [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/cnutrokpor_st_ug_edu_gh/ETuKCQf3yXZHtGH6qe-WNgkBbgaHfzNGoXrNtKK6sD-edg?e=wHaWUH)
-- [Images](https://ugedugh-my.sharepoint.com/:f:/g/personal/cnutrokpor_st_ug_edu_gh/EqOOf-sxuixHuBEx_2KjbxgB_Ds7LA3_B8as34qlMhDP0Q?e=zz2F3o)
-+ [Local Audios](https://ugedugh-my.sharepoint.com/:f:/g/personal/cnutrokpor_st_ug_edu_gh/EiWT8RV-p3xNqvt1QvzyFsoBF0PQJcMux98EyMulJQigEw?e=rpbCRr)
+* [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/iwiafe_ug_edu_gh/EdprMyPNRA9BkxdYmSgaRUQBBKtA7l6VgrVW9c9MW4Nmhw?e=SchEHg)
+- [Images](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/Eh6f0sUsJbZHvtg0N_YHfx8BLcUyATUDarDhZcgTONxkMQ?e=rtmV3W)
++ [Local Audios](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/EqmRkVwYpJdBh6IUGYnNs_ABAIg9GJJLoFa77V-y-QAmwg?e=Oq2FLz)
 
 #
 
