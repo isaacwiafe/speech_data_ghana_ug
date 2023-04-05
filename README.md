@@ -3,10 +3,11 @@ The data samples given are for quality testing and verification purposes
 
 #
 ## Links to Data Assets 
-* [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/iwiafe_ug_edu_gh/EdprMyPNRA9BkxdYmSgaRUQBBKtA7l6VgrVW9c9MW4Nmhw?e=SchEHg)
-- [Images](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/Eh6f0sUsJbZHvtg0N_YHfx8BLcUyATUDarDhZcgTONxkMQ?e=rtmV3W)
-+ [Local Audios](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/EqmRkVwYpJdBh6IUGYnNs_ABAIg9GJJLoFa77V-y-QAmwg?e=Oq2FLz)
-
+<!-- * [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/iwiafe_ug_edu_gh/EdprMyPNRA9BkxdYmSgaRUQBBKtA7l6VgrVW9c9MW4Nmhw?e=SchEHg)-->
+<!-- - [Images](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/Eh6f0sUsJbZHvtg0N_YHfx8BLcUyATUDarDhZcgTONxkMQ?e=rtmV3W)-->
+<!-- + [Local Audios](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/EqmRkVwYpJdBh6IUGYnNs_ABAIg9GJJLoFa77V-y-QAmwg?e=Oq2FLz)-->
++ [Downloadable dataset](https://sdapi.ugspeechdata.com/assets/temps/export_audio_2023-03-29%2002:44:43.zip)
+This downloads the zip version of the dataset. 
 #
 
 ## AUDIO_ID.csv Description
