@@ -8,7 +8,6 @@ The data samples given are for quality testing and verification purposes
 <!-- - [Images](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/Eh6f0sUsJbZHvtg0N_YHfx8BLcUyATUDarDhZcgTONxkMQ?e=rtmV3W)-->
 <!-- + [Local Audios](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/EqmRkVwYpJdBh6IUGYnNs_ABAIg9GJJLoFa77V-y-QAmwg?e=Oq2FLz)-->
 
-This downloads the zip version of the dataset. 
 #
 
 ## AUDIO_ID.csv Description
