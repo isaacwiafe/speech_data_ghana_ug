@@ -7,9 +7,9 @@ The data samples given are for quality testing and verification purposes
 
 * [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/speechdata_ug_edu_gh/Ee_JRTRh_EdImQFS2xVAdG0BgtmvGPmk0j_RdFT4G39_EA?e=5vNWpv)
 
-* [Images](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/ErFLbRtqKphAhv0e50LuyKUB4-6Tp3bZRSIu0Ggi0oPgaw?e=KEd8e8)
+* [Images](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/ErFLbRtqKphAhv0e50LuyKUB4-6Tp3bZRSIu0Ggi0oPgaw?e=KEd8e8) 
 
-<!-- + [Local Audios](https://ugedugh-my.sharepoint.com/:f:/g/personal/iwiafe_ug_edu_gh/EqmRkVwYpJdBh6IUGYnNs_ABAIg9GJJLoFa77V-y-QAmwg?e=Oq2FLz)-->
+*   [Local Audios](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/En7QMViDSgtPilkV4H8Zdt0B-tH-Dp0kANcIoP9kArhbSA?e=nk92cf)
 
 #
 
