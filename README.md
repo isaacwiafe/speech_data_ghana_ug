@@ -3,7 +3,7 @@ The data samples given are for quality testing and verification purposes
 
 #
 ## Links to Data Assets 
-+ [Transcribed Audio Samples](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/ElKXjaPvzAVHieECKvn-H40BU1dNT1yTCpaoZfDAn3UTZw?e=E8OYmr)
++ [Transcribed Audio Samples](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/Ejb6UHk-E7VOlvccvCWel44BhcSvTnEDh3FBGNtlZBy8kA?e=bLaHaF)
 
 * [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/speechdata_ug_edu_gh/Ee_JRTRh_EdImQFS2xVAdG0BgtmvGPmk0j_RdFT4G39_EA?e=5vNWpv)
 
