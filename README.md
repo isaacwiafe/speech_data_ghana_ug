@@ -5,11 +5,11 @@ The data samples given are for quality testing and verification purposes
 ## Links to Data Assets 
 + [Transcribed Audio Samples](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/Ejb6UHk-E7VOlvccvCWel44BhcSvTnEDh3FBGNtlZBy8kA?e=bLaHaF)
 
-* [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/speechdata_ug_edu_gh/Ee_JRTRh_EdImQFS2xVAdG0BgtmvGPmk0j_RdFT4G39_EA?e=5vNWpv)
+* [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/speechdata_ug_edu_gh/EdolnSt-is1IirdGHo2O43IBrniI0YP2C2qqqH5-IEae6Q?e=kmZdVc)
 
 * [Images](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/ErFLbRtqKphAhv0e50LuyKUB4-6Tp3bZRSIu0Ggi0oPgaw?e=KEd8e8) 
 
-*   [Local Audios](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/En7QMViDSgtPilkV4H8Zdt0B-tH-Dp0kANcIoP9kArhbSA?e=nk92cf)
+*   [Local Audios](https://ugedugh-my.sharepoint.com/:x:/g/personal/speechdata_ug_edu_gh/EdolnSt-is1IirdGHo2O43IBrniI0YP2C2qqqH5-IEae6Q?e=Ym0ovw)
 
 #
 
