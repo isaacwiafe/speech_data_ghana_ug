@@ -5,7 +5,7 @@ The data samples given are for quality testing and verification purposes
 ## Links to Data Assets 
 + [Transcribed Audio Samples](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/Ejb6UHk-E7VOlvccvCWel44BhcSvTnEDh3FBGNtlZBy8kA?e=bLaHaF)
 
-* [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/speechdata_ug_edu_gh/EdolnSt-is1IirdGHo2O43IBrniI0YP2C2qqqH5-IEae6Q?e=kmZdVc)
+* [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/speechdata_ug_edu_gh/EdolnSt-is1IirdGHo2O43IBrniI0YP2C2qqqH5-IEae6Q?e=w4V7ng)
 
 * [Images](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/ErFLbRtqKphAhv0e50LuyKUB4-6Tp3bZRSIu0Ggi0oPgaw?e=KEd8e8) 
 
