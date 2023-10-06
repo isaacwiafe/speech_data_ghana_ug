@@ -5,11 +5,11 @@ The data samples given are for quality testing and verification purposes
 ## Links to Data Assets 
 + [Transcribed Audio Samples](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/Ejb6UHk-E7VOlvccvCWel44BhcSvTnEDh3FBGNtlZBy8kA?e=bLaHaF)
 
-* [AUDIO_ID.csv (.csv)](https://ugedugh-my.sharepoint.com/:x:/g/personal/speechdata_ug_edu_gh/EdolnSt-is1IirdGHo2O43IBrniI0YP2C2qqqH5-IEae6Q?e=w4V7ng)
+* [AUDIO_ID.csv (.csv)](https://www.dropbox.com/scl/fi/jjyi4bcu45m40a1hsre2y/waxal-project-data.xlsx?rlkey=rhzxjwve0pea1xsfsx13fejvo&dl=0) (More convenient to download)
 
-* [Images](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/ErFLbRtqKphAhv0e50LuyKUB4-6Tp3bZRSIu0Ggi0oPgaw?e=KEd8e8) 
+* [Images](https://www.dropbox.com/scl/fo/0v9sbymx0k39z847x2kz6/h?rlkey=zx4uz6qmfmmict21ye96nscu1&dl=0) 
 
-*   [Local Audios](https://ugedugh-my.sharepoint.com/:x:/g/personal/speechdata_ug_edu_gh/EdolnSt-is1IirdGHo2O43IBrniI0YP2C2qqqH5-IEae6Q?e=Ym0ovw)
+*   [Local Audios](https://www.dropbox.com/scl/fo/5x30m6t9wmbhpta2a1d0h/h?rlkey=qzi8l6kr6ni5nqke69ds3ylun&dl=0)
 
 #
 
