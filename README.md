@@ -16,11 +16,11 @@ The data samples given are for quality testing and verification purposes
 
 ### Diamond 
 
-* [AUDIO_ID.csv (.csv)]() (More convenient to download)
+* [AUDIO_ID.csv (.csv)](https://www.dropbox.com/scl/fi/ee7u67ovemo2dxzban7po/waxal-project-data.xlsx?rlkey=egm33856cgql4uc3qw6wt8x5y&dl=0) (More convenient to download)
 
-* [Images]() 
+* [Images](https://www.dropbox.com/scl/fo/quk609wopvkuzulcml3q3/h?rlkey=o74dq0hw03r64p5a8i0m7sibv&dl=0) 
 
-*   [Local Audios]()
+*   [Local Audios](https://www.dropbox.com/scl/fo/hd8hczfihj5j6vk9drdhp/h?rlkey=j4cqzyvf9yhsrqysbx640iibb&dl=0)
 
 #
 
