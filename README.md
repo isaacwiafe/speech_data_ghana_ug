@@ -6,21 +6,11 @@ The data samples given are for quality testing and verification purposes
 
 + [Transcribed Audio Samples](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/Ejb6UHk-E7VOlvccvCWel44BhcSvTnEDh3FBGNtlZBy8kA?e=bLaHaF)
 
-### Gold
-
 * [AUDIO_ID.csv (.csv)](https://www.dropbox.com/scl/fi/jjyi4bcu45m40a1hsre2y/waxal-project-data.xlsx?rlkey=rhzxjwve0pea1xsfsx13fejvo&dl=0) (More convenient to download)
 
 * [Images](https://www.dropbox.com/scl/fo/0v9sbymx0k39z847x2kz6/h?rlkey=zx4uz6qmfmmict21ye96nscu1&dl=0) 
 
 *   [Local Audios](https://www.dropbox.com/scl/fo/5x30m6t9wmbhpta2a1d0h/h?rlkey=qzi8l6kr6ni5nqke69ds3ylun&dl=0)
-
-### Diamond 
-
-* [AUDIO_ID.csv (.csv)](https://www.dropbox.com/scl/fi/ee7u67ovemo2dxzban7po/waxal-project-data.xlsx?rlkey=egm33856cgql4uc3qw6wt8x5y&dl=0) (More convenient to download)
-
-* [Images](https://www.dropbox.com/scl/fo/quk609wopvkuzulcml3q3/h?rlkey=o74dq0hw03r64p5a8i0m7sibv&dl=0) 
-
-*   [Local Audios](https://www.dropbox.com/scl/fo/hd8hczfihj5j6vk9drdhp/h?rlkey=j4cqzyvf9yhsrqysbx640iibb&dl=0)
 
 #
 
