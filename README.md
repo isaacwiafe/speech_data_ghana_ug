@@ -6,9 +6,9 @@ The data samples given are for quality testing and verification purposes
 
 + [Transcribed Audio Samples](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/Ejb6UHk-E7VOlvccvCWel44BhcSvTnEDh3FBGNtlZBy8kA?e=bLaHaF)
 
-* [Images]([https://www.dropbox.com/scl/fo/0v9sbymx0k39z847x2kz6/h?rlkey=zx4uz6qmfmmict21ye96nscu1&dl=0](https://www.dropbox.com/scl/fo/2q6lvqtn4qm0w6t0iyxm0/h?rlkey=uz9l13khtdhdouvcca7nba5qi&dl=0)) 
+* [Images](https://www.dropbox.com/scl/fo/2q6lvqtn4qm0w6t0iyxm0/h?rlkey=uz9l13khtdhdouvcca7nba5qi&dl=0](https://www.dropbox.com/scl/fo/2q6lvqtn4qm0w6t0iyxm0/h?rlkey=uz9l13khtdhdouvcca7nba5qi&dl=0)) 
 
-*   [Local Audios] + [AUDIO ID.csv](https://www.dropbox.com/scl/fo/e9bha9glyvk2mu5fo7f3h/h?rlkey=kzm1mnx8bj6qgicpaxojz1npa&dl=0)
+*   [Local Audios + AUDIO ID.csv](https://www.dropbox.com/scl/fo/e9bha9glyvk2mu5fo7f3h/h?rlkey=kzm1mnx8bj6qgicpaxojz1npa&dl=0)
 
 #
 
