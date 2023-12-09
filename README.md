@@ -10,6 +10,8 @@ The data samples given are for quality testing and verification purposes
 
 *   [Local Audios + AUDIO ID.csv](https://www.dropbox.com/scl/fo/e9bha9glyvk2mu5fo7f3h/h?rlkey=kzm1mnx8bj6qgicpaxojz1npa&dl=0)
 
+*   [Transcriptions](https://www.dropbox.com/scl/fo/qouaom0adtkaux7u7c5gr/h?rlkey=8vy27eb2u9dhrsrh7bzbtq6zc&dl=0)
+
 #
 
 ## AUDIO_ID.csv Description
@@ -34,6 +36,6 @@ The data samples given are for quality testing and verification purposes
 | --- | --- |
 | `ak_gh` | Akan     |
 | `dga_gh` | Dagbani       |
-| `dga_gh` | Dagaare       |
+| `dag_gh` | Dagaare       |
 | `ee_gh` |  Ewe         |
 | `kpo_gh` | Ikposo           |
