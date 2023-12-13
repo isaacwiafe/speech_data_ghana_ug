@@ -4,7 +4,7 @@ The data samples given are for quality testing and verification purposes
 #
 ## Links to Data Assets 
 
-+ [Transcribed Audio Samples](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/Ejb6UHk-E7VOlvccvCWel44BhcSvTnEDh3FBGNtlZBy8kA?e=bLaHaF)
+<!--- + [Transcribed Audio Samples](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/Ejb6UHk-E7VOlvccvCWel44BhcSvTnEDh3FBGNtlZBy8kA?e=bLaHaF) --->
 
 * [Images](https://www.dropbox.com/scl/fo/2q6lvqtn4qm0w6t0iyxm0/h?rlkey=uz9l13khtdhdouvcca7nba5qi&dl=0](https://www.dropbox.com/scl/fo/2q6lvqtn4qm0w6t0iyxm0/h?rlkey=uz9l13khtdhdouvcca7nba5qi&dl=0)) 
 
