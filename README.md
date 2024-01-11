@@ -6,11 +6,11 @@ The data samples given are for quality testing and verification purposes
 
 <!--- + [Transcribed Audio Samples](https://ugedugh-my.sharepoint.com/:f:/g/personal/speechdata_ug_edu_gh/Ejb6UHk-E7VOlvccvCWel44BhcSvTnEDh3FBGNtlZBy8kA?e=bLaHaF) --->
 
-* [Images](https://www.dropbox.com/scl/fo/2q6lvqtn4qm0w6t0iyxm0/h?rlkey=uz9l13khtdhdouvcca7nba5qi&dl=0](https://www.dropbox.com/scl/fo/2q6lvqtn4qm0w6t0iyxm0/h?rlkey=uz9l13khtdhdouvcca7nba5qi&dl=0)) 
+<!---* [Images](https://www.dropbox.com/scl/fo/2q6lvqtn4qm0w6t0iyxm0/h?rlkey=uz9l13khtdhdouvcca7nba5qi&dl=0](https://www.dropbox.com/scl/fo/2q6lvqtn4qm0w6t0iyxm0/h?rlkey=uz9l13khtdhdouvcca7nba5qi&dl=0)) --->
 
 *   [Local Audios + AUDIO ID.csv](https://www.dropbox.com/scl/fo/e9bha9glyvk2mu5fo7f3h/h?rlkey=kzm1mnx8bj6qgicpaxojz1npa&dl=0)
 
-*   [Transcriptions](https://www.dropbox.com/scl/fo/qouaom0adtkaux7u7c5gr/h?rlkey=8vy27eb2u9dhrsrh7bzbtq6zc&dl=0)
+  <!---  [Transcriptions](https://www.dropbox.com/scl/fo/qouaom0adtkaux7u7c5gr/h?rlkey=8vy27eb2u9dhrsrh7bzbtq6zc&dl=0) --->
 
 #
 
@@ -20,7 +20,7 @@ The data samples given are for quality testing and verification purposes
 | `IMAGE_URL` | Provides the relative path to the images in the folder          |
 | `IMAGE_SRC_URL` | Provides the source path to the actual image online          |
 | `AUDIO_URL` | Provides the relative path to the local audio language in the Local Audio folder            |
-| `ORG_NAME` |  Identifies the institution coordinating the audio collecction           |
+| `ORG_NAME` |  Identifies the institution coordinating the audio collection           |
 | `PROJECT_NAME` | Provides the name of project             |
 | `SPEAKER_ID` | Provides the ID number of the individual describing the image             |
 | `LOCALE` |  Provides the local language IETF BCP 47 language tag of the audio file           |
