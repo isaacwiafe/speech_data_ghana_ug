@@ -3,28 +3,34 @@ message: "If you use this data, please cite it as below."
 authors:
   - family-names: Wiafe
     given-names: Isaac
-    orcid: ""
+    orcid: "https://orcid.org/0000-0003-1149-3309"
   - family-names: Jamal-Deen
     given-names: Abdulai
-    orcid: ""
+    orcid: "https://orcid.org/0000-0002-4871-9458"
   - family-names: Ekpezu
     given-names: Akon Obu
-    orcid: ""
+    orcid: "https://orcid.org/0000-0002-9502-1052"
   - family-names: Dodzie
     given-names: Raynard
-    orcid: ""
-  - family-names: Nutrokpor
-    given-names: Charles
-    orcid: ""
+    orcid: "https://orcid.org/0009-0003-0771-6933"
   - family-names: Atsakpo
     given-names: Elikem Doe
-    orcid: ""
+    orcid: "https://orcid.org/0000-0002-2283-9275"
+  - family-names: Nutrokpor
+    given-names: Charles
+    orcid: "https://orcid.org/0000-0002-9155-4556"
   - family-names: Winful
-    given-names: Payin Fiifi Baffoe
-    orcid: ""
+    given-names:  Fiifi Baffoe Payin
+    orcid: "https://orcid.org/0009-0004-0594-3662"
 title: "UG SPEECHDATA"
 version: 1.0.0
 identifiers:
   - type: doi
     value: ""
 date-released: 2023-03-01
+repository-code: "https://github.com/isaacwiafe/speech_data_ug"
+keywords: 
+  - Speech Data
+  - Dataset
+  - University of Ghana
+type: dataset
