@@ -33,4 +33,8 @@ keywords:
   - Speech Data
   - Dataset
   - University of Ghana
+  - Ghana
+  - West Africa
+  - Computer Science 
+abstract: "The UG SPEECHDATA dataset was collected and curated at the University of Ghana, Legon, Accra, Ghana, to support local language speech research in Ghanaian languages."
 type: dataset
