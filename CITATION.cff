@@ -3,29 +3,28 @@ message: "If you use this data, please cite it as below."
 authors:
   - family-names: Wiafe
     given-names: Isaac
-    orcid: 
- - family-names: Jamal-Deen
+    orcid: ""
+  - family-names: Jamal-Deen
     given-names: Abdulai
-    orcid: 
- - family-names: Ekpezu
+    orcid: ""
+  - family-names: Ekpezu
     given-names: Akon Obu
-    orcid: 
- - family-names: Dodzie
+    orcid: ""
+  - family-names: Dodzie
     given-names: Raynard
-    orcid:
- - family-names: Nutrokpor
+    orcid: ""
+  - family-names: Nutrokpor
     given-names: Charles
-    orcid: 
- - family-names: Atsakpo
+    orcid: ""
+  - family-names: Atsakpo
     given-names: Elikem Doe
-    orcid:   
- - family-names: Winful
+    orcid: ""
+  - family-names: Winful
     given-names: Payin Fiifi Baffoe
-    orcid: 
-
+    orcid: ""
 title: "UG SPEECHDATA"
 version: 1.0.0
 identifiers:
   - type: doi
-    value: 
-date-released: 2023-03-1
+    value: ""
+date-released: 2023-03-01
