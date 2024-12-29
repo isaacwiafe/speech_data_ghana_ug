@@ -11,7 +11,6 @@ The dataset comprises of 5000 hours speech corpus in Akan, Ewe, Dagbani, Daagare
 
   <!---  [Transcriptions](https://www.dropbox.com/scl/fo/qouaom0adtkaux7u7c5gr/h?rlkey=8vy27eb2u9dhrsrh7bzbtq6zc&dl=0) --->
 
-#
 
 <h2>AUDIO_ID.csv Description</h2>
 
