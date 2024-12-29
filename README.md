@@ -13,31 +13,100 @@ The dataset comprises of 5000 hours speech corpus in Akan, Ewe, Dagbani, Daagare
 
 #
 
-## AUDIO_ID.csv Description
-| Columns | Description |
-| --- | --- |
-| `IMAGE_URL` | Provides the relative path to the images in the folder          |
-| `IMAGE_SRC_URL` | Provides the source path to the actual image online          |
-| `AUDIO_URL` | Provides the relative path to the local audio language in the Local Audio folder            |
-| `ORG_NAME` |  Identifies the institution coordinating the audio collection           |
-| `PROJECT_NAME` | Provides the name of project             |
-| `SPEAKER_ID` | Provides the ID number of the individual describing the image             |
-| `LOCALE` |  Provides the local language IETF BCP 47 language tag of the audio file           |
-| `GENDER` |  Provides the individual providing the audio description gender           |
-| `AGE` |     Provides the individual providing the audio description age        |
-| `DEVICE` |  Identifies the device from which the audio recording was done          |
-| `ENVIRONMENT` |  Identifies the space within which the audio was recorded           |
-| `YEAR` |  The year in which the audio was recorded.            |
+<h2>AUDIO_ID.csv Description</h2>
 
-### Note: Local IDs
+<table>
+  <thead>
+    <tr>
+      <th>Column</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>IMAGE_URL</code></td>
+      <td>Provides the relative path to the images in the folder</td>
+    </tr>
+    <tr>
+      <td><code>IMAGE_SRC_URL</code></td>
+      <td>Provides the source path to the actual image online</td>
+    </tr>
+    <tr>
+      <td><code>AUDIO_URL</code></td>
+      <td>Provides the relative path to the local audio language in the Local Audio folder</td>
+    </tr>
+    <tr>
+      <td><code>ORG_NAME</code></td>
+      <td>Identifies the institution coordinating the audio collection</td>
+    </tr>
+    <tr>
+      <td><code>PROJECT_NAME</code></td>
+      <td>Provides the name of the project</td>
+    </tr>
+    <tr>
+      <td><code>SPEAKER_ID</code></td>
+      <td>Provides the ID number of the individual describing the image</td>
+    </tr>
+    <tr>
+      <td><code>LOCALE</code></td>
+      <td>Provides the local language IETF BCP 47 language tag of the audio file</td>
+    </tr>
+    <tr>
+      <td><code>GENDER</code></td>
+      <td>Provides the individual providing the audio description gender</td>
+    </tr>
+    <tr>
+      <td><code>AGE</code></td>
+      <td>Provides the individual providing the audio description age</td>
+    </tr>
+    <tr>
+      <td><code>DEVICE</code></td>
+      <td>Identifies the device from which the audio recording was done</td>
+    </tr>
+    <tr>
+      <td><code>ENVIRONMENT</code></td>
+      <td>Identifies the space within which the audio was recorded</td>
+    </tr>
+    <tr>
+      <td><code>YEAR</code></td>
+      <td>The year in which the audio was recorded</td>
+    </tr>
+  </tbody>
+</table>
 
-| Locale ID | Name |
-| --- | --- |
-| `ak_gh` | Akan     |
-| `dga_gh` | Dagbani       |
-| `dag_gh` | Dagaare       |
-| `ee_gh` |  Ewe         |
-| `kpo_gh` | Ikposo           |
+<h3>Note: Local IDs</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Locale ID</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>ak_gh</code></td>
+      <td>Akan</td>
+    </tr>
+    <tr>
+      <td><code>dga_gh</code></td>
+      <td>Dagbani</td>
+    </tr>
+    <tr>
+      <td><code>dag_gh</code></td>
+      <td>Dagaare</td>
+    </tr>
+    <tr>
+      <td><code>ee_gh</code></td>
+      <td>Ewe</td>
+    </tr>
+    <tr>
+      <td><code>kpo_gh</code></td>
+      <td>Ikposo</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 # CITATION
