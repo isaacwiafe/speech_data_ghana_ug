@@ -38,3 +38,7 @@ The dataset comprises of 5000 hours speech corpus in Akan, Ewe, Dagbani, Daagare
 | `dag_gh` | Dagaare       |
 | `ee_gh` |  Ewe         |
 | `kpo_gh` | Ikposo           |
+
+
+# CITATION
+Wiafe, I., Abdulai, J., Ekpezu, A. O., Dodzie, R., Atsakpo, E. D., Nutrokpor, C., & Winful, F. B. P. (2023). UGSPEECHDATA (Version 1.0.0) [Data set]. https://github.com/isaacwiafe/speech_data_ug
